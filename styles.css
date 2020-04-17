@@ -42,5 +42,8 @@ a {
 .menu li a {
   display: block;
   padding: 10px;
-  background: rgb(223, 78, 78);
+}
+
+.image-logo {
+  width: 40px;
 }
